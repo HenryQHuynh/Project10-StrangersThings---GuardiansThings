@@ -1,0 +1,34 @@
+footer {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  border-top: solid #032A5D;
+  height: 10vh;
+  padding: 5px;
+  color: #032A5D;
+  margin-bottom: 0;
+}
+
+footer p {
+  margin: 5px;
+  margin-bottom: 0px;
+}
+
+footer h4 {
+  margin: 5px;
+  margin-bottom: 0px;
+}
+
+footer img {
+  width: 50px;
+  border-radius: 50%;
+  margin-bottom: 0px;
+
+}
+
+#freehold {
+  margin-top: 0px;
+  font-size: 10px;
+  /* font-family: 'Press Start 2P', cursive; */
+}

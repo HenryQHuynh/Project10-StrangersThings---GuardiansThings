@@ -1,0 +1,24 @@
+#register-page {
+  height: 80vh;
+}
+
+#register-form {
+  display: flex;
+  justify-content: center;
+  border: solid #F97444;
+  color: #032A5D;
+  margin: 0 auto;
+  width: 25%;
+  padding: 0.5rem;
+  font-size: 1.2rem;
+  margin-top: 2rem;
+}
+
+#register-button {
+  background-color: #032A5D;
+  border-radius: 10px;
+  font-size: 1rem;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}

@@ -1,0 +1,28 @@
+#login-page {
+  height: 80vh;
+}
+
+#login-form {
+  display: flex;
+  justify-content: center;
+  border: solid #F97444;
+  margin: 0 auto;
+  width: 20%;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  margin-top: 3rem;
+  color: #032A5D
+}
+
+#login-button {
+  border-radius: 10px;
+  font-size: 1rem;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  background-color: #032A5D;
+}
+
+#login-button:active {
+  transform: translateY(0.3vh);
+}

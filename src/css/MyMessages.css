@@ -1,0 +1,16 @@
+#mymessages-page {
+  height: 81vh;
+}
+
+#empty-inbox-outbox {
+  margin-left: 2rem;
+}
+
+#welcome {
+  padding-left: 1rem;
+}
+
+h2 {
+  margin: 1.5rem;
+  text-align: start;
+}

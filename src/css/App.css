@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300;400;600&family=Noto+Sans+JP:wght@300;400&family=Press+Start+2P&display=swap');
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Jost', sans-serif;
+}
+
+#app {
+  display: flex;
+  flex-flow: column wrap;
+  background-color: #DAD9D5;
+  width: 100%;
+  margin: auto;
+  line-height: 1.2;
+}

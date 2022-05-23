@@ -1,0 +1,49 @@
+#new-post-page {
+  height: 79vh;
+}
+
+#new-post-form {
+  display: flex;
+  justify-content: center;
+  border: solid black;
+  margin: 0 auto;
+  width: 25%;
+  padding: 0.5rem;
+  font-size: 1.2rem;
+  margin-top: 2rem;
+}
+
+#new-post-form textarea {
+  resize: none;
+  display: block;
+  margin: 0 auto;
+  width: 15rem;
+  padding: 0.2rem;
+  margin-bottom: 0.5rem;
+}
+
+#new-post-form input {
+  margin: 0.5rem;
+  padding: 0.2rem;
+}
+
+#new-post-delivery {
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  padding: 5px;
+  margin-top: 1rem;
+}
+
+#new-post-button {
+  background-color: #032A5D;
+  border-radius: 10px;
+  font-size: 1rem;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+#new-post-button:active {
+  transform: translateY(0.3vh);
+}
