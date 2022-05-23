@@ -1,3 +1,6 @@
 Check CSS
-login: LetsTry
-Pass: pleasework
+login: TryLets
+Pass: workplease
+
+Don't use this password to log into the WaywardGuardian API please T_T
+No wait, I'll adjust it for myself...
